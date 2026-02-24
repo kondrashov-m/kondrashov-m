@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/kondrashov-m/info/blob/main/Intro.gif?raw=true" 
+  <img src="https://github.com/kondrashov-m/kondrashov-m/blob/main/Intro.gif?raw=true" 
        width="777" 
        alt="Intro GIF" />
 </div>
